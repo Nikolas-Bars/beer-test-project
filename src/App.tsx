@@ -1,0 +1,14 @@
+import React from 'react';
+import './App.css';
+import MainPage from "./components/MainPage/MainPage";
+import SearchComponent from "./components/SearchComponent/SearchComponent";
+
+function App() {
+  return (
+    <div className="App">
+      <MainPage />
+    </div>
+  );
+}
+
+export default App;

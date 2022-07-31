@@ -1,0 +1,33 @@
+.main_block {
+  img {
+    margin: 15px auto;
+    display: block;
+    width: 100%;
+    padding-bottom: 15px;
+  }
+
+  .text_description {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 1.4em;
+    font-weight: lighter;
+  }
+
+  .text_food_pairing {
+    font-size: 1em;
+    font-weight: bolder;
+  }
+
+  .text_abv {
+    margin-top: 15px;
+    font-family: 'Ibarra Real Nova', serif;
+  }
+
+}
+
+.tags_line {
+  width: 100%;
+  text-align: left;
+  position: relative;
+  top: 25px;
+}
+
